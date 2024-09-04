@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://folackinb.github.io/sitemap.html.gz
+Sitemap: https://folackinb.github.io/app/sitemap.html.gz
+Sitemap: https://folackinb.github.io/assets/sitemap.html.gz
+Sitemap: https://folackinb.github.io/css/sitemap.html.gz
+Sitemap: https://folackinb.github.io/includes/sitemap.html.gz
+Sitemap: https://folackinb.github.io/item/sitemap.html.gz
+Sitemap: https://folackinb.github.io/src/sitemap.html.gz
